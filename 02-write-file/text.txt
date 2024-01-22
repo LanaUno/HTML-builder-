@@ -1,4 +1,5 @@
  hello
+hi
 nice to see you
-fine
 exit
+ 
